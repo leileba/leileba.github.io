@@ -169,9 +169,14 @@ body {
  */
 .cover-heading{
 	line-height: 1.3;
+	maring-top: 10px;
 	margin-bottom: 30px;
 }
 
 .mastfoot>.inner a{
 	color:#7e9997;
+}
+
+h1{
+	font-size:28px;
 }
