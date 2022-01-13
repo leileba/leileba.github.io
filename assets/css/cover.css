@@ -172,14 +172,15 @@ body {
 	margin-bottom: 30px;
 }
 
-.cover .lead{
-	font-align: left;
-}
-
 .mastfoot>.inner a{
 	color:#7e9997;
 }
 
 h1{
 	font-size:28px;
+}
+
+.soup{
+	margin-top:50px;
+	margin-bottom:50px;
 }
