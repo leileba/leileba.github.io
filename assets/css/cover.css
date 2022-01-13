@@ -169,8 +169,11 @@ body {
  */
 .cover-heading{
 	line-height: 1.3;
-	maring-top: 10px;
 	margin-bottom: 30px;
+}
+
+.cover .lead{
+	font-align: left;
 }
 
 .mastfoot>.inner a{
