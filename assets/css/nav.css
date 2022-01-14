@@ -65,3 +65,12 @@
 .img-circle {
     padding: 7px 0;
 }
+
+#go-top{
+	position: fixed;
+	right:20px;
+	bottom:80px;
+	display: inline-block;
+    background-color: rgba(44, 46, 47, .25);
+    padding: 2px 5px;
+}
